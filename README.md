@@ -17,11 +17,15 @@ Il codice è composto da due classi principali:
 
 ## Come eseguire
 
-1. Clona questo repository  
-2. Assicurati di avere installato Java JDK (versione 8 o superiore)  
-3. Compila i file `.java` (assumendo che tu sia nella cartella principale del progetto):
-
+1. Clona questo repository
 *bash*
-<pre lang="bash"> ```javac Main.java Person.java``` </pre>
+<pre lang="bash">git clone https://github.com/annavincenzi-dev/Java_Users_Mapping</pre>
+<pre lang="bash">cd Java_Users_Mapping</pre>
 
-<pre lang="bash"> ```java Main``` </pre>
+3. Assicurati di avere installato Java JDK (versione 8 o superiore)
+    
+4. Compila i file `.java`:
+*bash*
+<pre lang="bash">javac Main.java Person.java</pre>
+
+<pre lang="bash">java Main</pre>
