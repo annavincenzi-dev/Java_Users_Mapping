@@ -22,5 +22,6 @@ Il codice è composto da due classi principali:
 3. Compila i file `.java` (assumendo che tu sia nella cartella principale del progetto):
 
 *bash*
-> javac Main.java Person.java
-> java Main
+<pre lang="bash"> ```javac Main.java Person.java``` </pre>
+
+<pre lang="bash"> ```java Main``` </pre>
